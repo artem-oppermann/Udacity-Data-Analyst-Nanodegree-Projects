@@ -1,0 +1,9 @@
+The OSM-File contains the information about an area in Boston, Massachusetts. 
+The area is bounded by the following coordinates:
+
+West=-71,191001
+East=-71,101667
+South=42,356000
+North=42,420001
+
+This link shows the chosen area: https://www.openstreetmap.org/export#map=12/42.3793/-71.1385
